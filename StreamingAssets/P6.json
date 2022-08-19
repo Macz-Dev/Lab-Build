@@ -1,0 +1,68 @@
+{
+  "titlePractice": "Transfección de células de mamífero",
+  "trama": "<b>Trama:</b> el alumno debe de realizar la técnica de inserción de un plásmido en un cultivo de línea celular de mamífero a través de la utilización de la técnica de lipofección. Los lípidos catiónicos formarán complejos con el DNA y facilitarán la endocitosis del material genético.\n\n<b>Equipo:</b>\nCampana de flujo laminar\nIncubadora CO2 37°C\nMesa de trabajo principal\nRefrigerador con congelador\n\n<b>Materiales:</b>\nBata\nGuantes\nLentes de seguridad\nFrasco con tubos de 1.5 ml\nHielera\nMicropipetas (20, 200 y 1000 µl)\nPipetas de 5, 10 y 50 ml\nPipetor\nPipetas\nCajas de puntas para las micropipetas\nTubo con plásmido a transfectar\nTubo con el agente/reactivo para lipofección (lípidos catiónicos, ejemplo lipofectamina®)\nCaja de Petri con cultivo de células de mamífero (ejemplo HEK293)\nAlcohol 70%\nFrasco con medio de cultivo DMEM\nFrasco con medio de cultivo con suero fetal bovino 10% (SFB)",
+"titleSteps": [
+	"Encender campana de flujo laminar",
+	"Preparar reactivos para trsfectar",
+	"Preparar material para transfectar",
+	"Pipetear 500µl de medio DMEM",
+	"Pipetear 20µl de plásmido",
+	"Pipetear 10µl de agente para lipofección",
+  "Incubar el tubo en la mesa (campana de flujo laminar)",
+  "Sacar cultivo celular de la incubadora de CO2",
+  "Aspirar medio de la caja de petri con una pipeta de 5 ml",
+  "Colocar nuevo medio (medio de cultivo sin SFB) en la caja de petri",
+  "Pipetear 530µl del tubo con complejos DNA-lípidos y depositarlos en la caja de petri",
+  "Agitar la caja de petri",
+  "Guardar la caja de petri en la incubadora de CO2 a 37°C",
+  "Incubar caja de petri por 6 horas",
+  "Guardar reactivos y material",
+  "Sacar caja de petri de la incubadora y colocarla en la campana de flujo laminar",
+  "Aspirar medio de la caja de petri",
+  "Poner nuevo medio en la caja de petri",
+  "Guardar caja de petri en la incubadora de CO2 a 37°C",
+  "Incubar la caja de petri por 48 horas."
+  ],
+  "instructionSteps": [
+    "►Encender la campana de flujo laminar.\n►Esperar por 15 minutos (Activar 15 minutos en el botón del tiempo).",
+
+    "►Colocar una hielera sobre la mesa de trabajo de la campana de flujo laminar.\n►Abrir el congelador y sacar un tubo con el plásmido de interés.\n►Colocar el plásmido en la hielera.\n►Cerrar la puerta del congelador.\n►Abrir el refrigerador y sacar un tubo con agente para lipofección.\n►Cerrar la puerta del refrigerador.\n►Limpiar el área de trabajo de la campana de flujo laminar con alcohol al 70%.",
+
+    "►En el área de trabajo de la campana se encontrará: frasco con medio DMEM y frasco con medio DMEM con SFB.\n►Colocar sobre la mesa de trabajo: pipetas, cajas de puntas, gradilla y frasco con tubos de 1.5 ml.\n►Colocar la gradilla en el centro del área de trabajo.\n►Colocar un tubo nuevo en la gradilla.\n►Sacar de la hielera el tubo con el plásmido y colocarlo en la gradilla.\n►Igualmente, sacar el tubo con el agente para lipofección y colocarlo en la gradilla.\n►Abrir el tubo nuevo.",
+
+    "►Abrir el frasco con medio DMEM.\n►Tomar una micropipeta de 1000µl.\n►Ajustar su volumen a 500µl.\n►Abrir la caja de puntas de 1000µl.\n►Colocar una punta a la micropipeta.\n►Tomar 500µl de medio DMEM.\n►Colocar el medio en el tubo nuevo.\n►Desechar la punta en el bote de desechos genéricos.\n►Dejar la micropipeta.\n►Cerrar el frasco con el medio.",
+
+    "►Abrir el tubo con el plásmido.\n►Tomar una micropipeta de 20µl.\n►Ajustar su volumen a 20µl.\n►Abrir la caja de puntas de 20µl.\n►Colocar una punta a la micropipeta.\n►Tomar 20µl de líquido con el plásmido.\n►Colocar el líquido en el tubo que tiene el medio.\n►Desechar la punta en el bote de desechos genéricos.\n►Dejar la micropipeta.\n►Cerrar el tubo con el plásmido.",
+
+    "►Abrir el tubo con el agente para lipofección.\n►Tomar una micropipeta de 20µl.\n►Ajustar su volumen a 10µl.\n►Abrir la caja de puntas de 20µl.\n►Colocar una punta a la micropipeta.\n►Tomar 10µl del agente para lipofección.\n►Colocar el líquido en el tubo que tiene el medio y el plásmido.\n►Mezclar gentilmente con la micropipeta el líquido del tubo. (Nota: en el laboratorio virtual la mezcla es realizada de manera automática. En un entorno real, no olvidar realizar la mezcla como se indica en este paso).\n►Desechar la punta (bote de desechos genéricos).\n►Dejar la micropipeta.\n►Cerrar el tubo con el agente.",
+
+    "►Esperar 30 minutos (Activar 30 minutos en el botón del tiempo).",
+
+    "►Sacar de la incubadora de CO2 una caja de petri con cultivo celular HEK293.\n►Colocar la caja de petri en la campana de flujo laminar.",
+
+    "►Colocar un pipetor en el área de trabajo de la campana.\n►Tomar una pipeta de 5 ml.\n►Conectar la pipeta al pipetor.\n►Abrir la caja de petri.\n►Aspirar el medio con la pipeta para quitar todo el líquido.\n►Cerrar la caja de petri.",
+
+    "►Tomar un frasco con medio de cultivo sin SFB y colocarlo en la mesa.\n►Abrir frasco de medio de cultivo sin SFB.\n►Tomar una pipeta de 5 ml.\n►Colocar la pipeta al pipetor.\n►Succionar 3 ml del medio de cultivo sin SFB del frasco.\n►Abrir la caja de petri.\n►Colocar el líquido en la caja de petri.\n►Desechar la pipeta (bote de desechos genéricos).\n►Dejar el pipetor.\n►Cerrar la caja de petri.",
+
+    "►Pasado el tiempo de incubación del tubo, abrir el tubo que contiene los complejos DNA-lípidos.\n►Tomar una micropipeta de 1000µl.\n►Ajustar su volumen a 530µl.\n►Abrir la caja de puntas de 1000µl.\n►Colocar una punta a la micropipeta.\n►Tomar el líquido del tubo que contiene los complejos DNA-lípidos.\n►Abrir la caja de petri.\n►Depositar el líquido en la caja de petri.\n►Desechar la punta en el bote de desechos genéricos.\n►Desechar el tubo (bote de desechos genéricos).\n►Dejar la micropipeta.\n►Cerrar la caja de petri.",
+
+    "►Ligeramente mover la caja de petri en forma de cruz.",
+
+    "►Tomar la caja de petri.\n►Abrir la incubadora de CO2 con temperatura de 37°C.\n►Colocar la caja de petri en su interior.\n►Cerrar la puerta de la incubadora.",
+
+    "►Encender la incubadora.\n►Incubar por 6 horas (Activar 6 horas en el botón del tiempo).",
+
+    "►Tomar los tubos de la gradilla y guardarlos en su lugar (menú del objeto con click derecho).\n►Guardar el frasco con medio DMEM sin SFB en el refrigerador.",
+
+    "►Pasado el tiempo de incubación, abrir la puerta de la incubadora de CO2 a 37°C.\n►Tomar la caja de petri.\n►Cerrar la puerta de la incubadora.\n►Colocar la caja de Petri en la campana de flujo laminar.",
+
+    "►Abrir la caja de petri.\n►Aspirar medio.\n►Cerrar la caja de petri.",
+
+    "►Abrir frasco de medio DMEM con SFB.\n►Tomar una pipeta de 10 ml.\n►Colocar la pipeta en el pipetor.\n►Tomar 10 ml del medio.\n►Abrir la caja de petri.\n►Colocar el medio en la caja de Petri.\n►Cerrar la caja de Petri.\n►Desechar la punta (bote de desechos genéricos).\n►Dejar el pipetor.\n►Cerrar el frasco con el medio.",
+
+    "►Tomar la caja de petri.\n►Abrir la puerta de la incubadora de CO2 a 37°C.\n►Colocar la caja de petri en su interior.\n►Cerrar la puerta.",
+
+    "►Encender la incubadora.\n►Incubar por 48 horas (Activar 48 horas en el botón del tiempo).\n►Pasado el tiempo de incubación, se puede checar el nivel de expresión del plásmido en la caja de petri."
+
+  ]
+}

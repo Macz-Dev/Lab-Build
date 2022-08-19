@@ -1,0 +1,38 @@
+{
+  "titlePractice": "Transformación de bacterias",
+  "trama": "<b>Trama:</b> El alumno debe de realizar la inserción de un plásmido en bacterias a través de un choque térmico.\n\n<b>Equipo:</b>\nHielera\nMechero\nIncubadora de tubos\nIncubadora de temperatura fija\nMesa de trabajo principal\nRefrigerador con congelador\n\n<b>Materiales:</b>\nBata\nGuantes\nLentes de seguridad\nTubos de 1.5ml\nMicropipetas(20µl, 200µl y 1000µl)\nPuntas para micropipetas\nTubos de 1.5ml con bacterias 'competentes'\nTubos de 1.5ml con el plásmido\nAntibiótico, ampicilina\nGradilla\nAsa de triángulo (de Drigalsky)",
+  "titleSteps": [
+    "Tomar hielera",
+    "Tomar reactivos del congelador",
+    "Rotular tubo",
+    "Pipetear",
+    "Incubar tubos",
+    "Limpiado de mesa",
+    "Encender mechero",
+    "Colocar reactivos en la mesa",
+    "Pipetear",
+    "Incubar bacterias",
+    "Colocar cajas de petri en la mesa",
+    "Pipetear",
+    "Sembrar bacterias",
+    "Incubar caja de petri",
+    "Visualización de resultado"
+  ],
+  "instructionSteps": [
+    "►Tomar una hielera del menú de objetos y colocarla en la mesa de trabajo.",
+    "►Tomar el tubo que contiene el plásmido (ligación) y el tubo de 1.5ml de bacterias competentes del congelador.\n►Colocar el tubo que contiene el plásmido y el tubo de 1.5ml con bacterias competentes en la hielera.",
+    "►Tomar un tubo nuevo del menú de objetos y colocarlo en la mesa de trabajo.\n►Rotular el tubo con el nombre del plásmido (opción \"rotular\" del click derecho).\n►Colocar el tubo rotulado en la hielera.",
+    "►Tomar una micropipeta de 200µl.\n►Fijar su volumen a 50µl.\n►Tomar una caja de puntas de 200µl, colocarla en la mesa de trabajo y abrirla.\n►Colocar una punta a la pipeta.\n►Abrir el tubo con bacterias y el tubo rotulado.\n►Tomar 50µl de bacterias con la micropipeta y colocarlo en el tubo rotulado.\n►Desechar la punta en el bote de residuos biológicos.\n►Dejar la micropipeta en la mesa de trabajo.\n►Cerrar el tubo con bacterias.\n►Tomar la micropipeta de la mesa de trabajo.\n►Fijar su volumen a 10µl.\n►Tomar una caja de puntas de 20µl, colocarla en la mesa de trabajo y abrirla.\n►Colocar una punta a la micropipeta.\n►Abrir el tubo con plásmido.\n►Tomar el líquido con la micropipeta y colocarlo en el tubo rotulado.\n►Resuspender el contenido del tubo rotulado con la micropipeta (opción \"resuspender\" del click derecho).\n►Desechar la punta en el bote de residuos biológicos.\n►Guardar la micropipeta (opción \"guardar en su lugar\" del click derecho).\n►Esperar 30 minutos (Activar 30 minutos en el botón del tiempo).",
+    "►Tomar la incubadora de tubos del menú de objetos y colocarla en la mesa de trabajo.\n►Tomar el tubo rotulado y abrir la interfaz de la incubadora de tubos (opción \"usar\" del click derecho).\n►Colocar el tubo rotulado en uno de los espacios de la incubadora de tubos.\n►Fijar la temperatura a 42ºC, sin velocidad de agitación e iniciar incubación (botón \"start\") (Nota: En el laboratorio virtual, el tiempo de este proceso es automático. En un entorno real, no olvidar realizar el procedimiento por el tiempo indicado en este paso).",
+    "►Limpiar mesa de trabajo con alcohol al 70% (Activar botón de spray).",
+    "►Tomar un mechero del menú de objetos y colocarlo en la mesa de trabajo.\n►Encender el mechero (opción \"encender\" del click derecho).",
+    "►Tomar el frasco de medio LB del menú de objetos y colocarlo en la mesa de trabajo junto al mechero.\n►Abrir el frasco de medio LB.\n►Tomar una gradilla del menú de objetos y colocarla en la mesa de trabajo junto al mechero.\n►Tomar el tubo rotulado y colocarlo en la gradilla.",
+    "►Abrir el tubo rotulado.\n►Tomar una micropipeta de 1000µl.\n►Fijar su volumen a 950µl.\n►Tomar una caja de puntas de 1000µl, colocarla en la mesa de trabajo y abrirla.\n►Colocar una punta a la micropipeta.\n►Tomar 950µl de líquido del frasco de medio LB con la micropipeta y colocarlo en el tubo rotulado.\n►Desechar la punta en el bote de desechos genéricos.\n►Guardar la micropipeta (opción \"guardar en su lugar\" del click derecho).\n►Cerrar el tubo rotulado y el frasco de medio LB.\n►Apagar el mechero (opción \"apagar\" del click derecho).",
+    "►Tomar el tubo rotulado y abrir la interfaz de la incubadora de tubos (opción \"usar\" del click derecho).\n►Colocar el tubo rotulado en uno de los espacios de la incubadora de tubos.\n►Fijar la temperatura a 37ºC, la velodicad de agitación a 250rpm e iniciar incubación (botón \"start\") (Nota: En el laboratorio virtual, el tiempo de este proceso es automático. En un entorno real, no olvidar realizar el procedimiento por el tiempo indicado en este paso).\n►Al terminar la incubación, colocar el tubo rotulado en la gradilla junto al mechero.\n►Encender el mechero (opción \"encender\" del click derecho).",
+    "►Tomar la caja de petri con medios de selección (LB+ampicilina) del refrigerador y colocarla en la mesa de trabajo.\n►Rotular la caja de petri (opción \"rotular\" del click derecho).",
+    "►Tomar una micropipeta de 200µl.\n►Fijar su volumen a 50µl.\n►Tomar una caja de puntas de 200µl, colocarla en la mesa de trabajo y abrirla.\n►Colocar una punta a la pipeta.\n►Abrir el tubo rotulado y la caja de petri rotulada.\n►Tomar 50µl de las bacterias transformadas con la micropipeta y colocarlas en la caja de petri rotulada.\n►Desechar la punta en el bote de residuos biológicos.\n►Guardar la micropipeta (opción \"guardar en su lugar\" del click derecho).",
+    "►Tomar un asa  de triángulo del menú de objetos.\n►Calentar el asa con el mechero.\n►Dispersar el líquido de la caja de petri con el asa de triángulo.\n►Cerrar la caja de petri.\n►Apagar el mechero (opción \"apagar\" del click derecho).",
+    "►Tomar la caja de petri e ir a la incubadora de temperatura fija.\n►Abrir la incubadora de temperatura fija y colocar la caja de petri.\n►Presionar el botón de inicio de la incubadora de temperatura fija.\n►Incubar toda la noche (Activar 12 horas en el botón del tiempo).",
+    "►Al terminar el tiempo de incubación, tomar la caja de petri de la incubadora de temperatura fija y colocarla en la mesa de trabajo.\n►Visualizar si hay colonias en la caja de petri (opción \"mostrar vista de bacterias\" del click derecho)."
+  ]
+}
