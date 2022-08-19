@@ -1,40 +1,55 @@
 <!DOCTYPE html>
 
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <title>Unity WebGL Player | Laboratorio Virtual Pruebas</title>
-        <link rel="shortcut icon" href="TemplateData/favicon.ico">
-        <link rel="stylesheet" href="TemplateData/style.css">
-        <script src="TemplateData/UnityProgress.js"></script>
-        <script src="Build/UnityLoader.js"></script>
-        <script>
-        var unityInstance = UnityLoader.instantiate("unityContainer", "Build/web.json", {onProgress: UnityProgress});
-    </script>
-    </head>
 
-    <body>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | Laboratorio Virtual Pruebas</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <script src="TemplateData/UnityProgress.js"></script>
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+        var unityInstance = UnityLoader.instantiate("unityContainer", "Build/LabBuild.json", { onProgress: UnityProgress });
+    </script>
+</head>
+
+<body>
     <div>
         <header class="encabezado">
-            <div>
-                <img id="logo" src="TemplateData/images/Imagotipo_horizontal-06.png" alt="Logo">
-            </div>
+
+            <img id="logo" src="TemplateData/images/Imagotipo_horizontal-06.png" alt="Logo">
+
         </header>
     </div>
-    <div class="contenedor">     
-        <img id="fondo" src="TemplateData/images/fondo.png" >
-        <div class="centrado">
+    <div class="contenedor">
+        <img id="fondo" src="TemplateData/images/fondo.png">
+        <div class="">
             <div class="webgl-content">
                 <div id="unityContainer" style="width: 1692px; height: 744px"></div>
-                <div class="footer">
-                  <div class="webgl-logo"></div>
-                  <!--<div class="fullscreen" onclick="unityInstance.SetFullscreen(1)"></div>-->
-                  <div class="title">Laboratorio Virtual Pruebas</div>
-                </div>
-              </div>
+                <!-- <div class="footer">
+                    <div class="webgl-logo"></div>
+                    <div class="fullscreen" onclick="unityInstance.SetFullscreen(1)"></div>
+                    <div class="title">Laboratorio Virtual Pruebas</div>
+                </div> -->
+            </div>
         </div>
     </div>
+    <footer>
+        <div class="footer-container">
+            <div class="documentos">
+                <a href="TemplateData/Documentos/documentoPrueba.pdf" download="Términos Prueba">Términos de uso &nbsp;
+                </a>
+                <p>|</p>
+                <a href="TemplateData/Documentos/documentoPrueba.pdf" download="Aviso Prueba">&nbsp; Aviso de
+                    privacidad</a>
+            </div>
+            <div class="derechos">
+                <p>Hecho en México, todos los derechos reservados 2022</p>
+            </div>
+        </div>
+    </footer>
+</body>
 
-    </body>
 </html>
