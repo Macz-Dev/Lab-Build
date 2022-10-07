@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Laboratorio Virtual",
-"productVersion": "1.0",
+"productVersion": "0.1",
 "dataUrl": "LabBuild.data.unityweb",
 "wasmCodeUrl": "LabBuild.wasm.code.unityweb",
 "wasmFrameworkUrl": "LabBuild.wasm.framework.unityweb",
