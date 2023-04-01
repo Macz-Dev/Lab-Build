@@ -1,6 +1,6 @@
 {
   "titlePractice": "Extracción de ADN",
-  "trama": "<b>Trama:</b> El alumno debe de realizar una extracción de DNA a partir de una muestra de cultivo celular que ya se encuentra disponible dentro del refrigerador.\n\n<b>Equipo:</b>\nCampana de extracción\nCentrífuga\nIncubadora de temperatura fija\nRefrigerador\nCongelador\n\n<b>Materiales:</b>\nBata\nGuantes\nLentes de seguridad\nTubo de 1.5ml con muestra de células\nTubos de 1.5ml\nMicropipetas (20µl, 200µl y 1000µl)\nCaja de puntas para las micropipetas\nFrasco con solución de lisis\nFrasco con Proteinasa K\nAlcohol 70%\nAlcohol 100%\nFrasco con mezcla de fenol, cloroformo, alcohol isoamílico\nFrasco con solución de NaOAc\nTubo de 600 ml con RNAsa",
+  "trama": "<b>Trama:</b> El alumno debe de realizar una extracción de DNA a partir de una muestra de cultivo celular que ya se encuentra disponible dentro del refrigerador.\n\n<b>Equipo:</b>\nCampana de extracción\nCentrífuga\nIncubadora de temperatura fija\nRefrigerador\nCongelador\n\n<b>Materiales:</b>\nBata\nGuantes\nLentes de seguridad\nTubo de 1.5ml con muestra de células\nTubos de 1.5ml\nMicropipetas (10µl, 200µl y 1000µl)\nCaja de puntas para las micropipetas\nFrasco con solución de lisis\nFrasco con Proteinasa K\nAlcohol 70%\nAlcohol 100%\nFrasco con mezcla de fenol, cloroformo, alcohol isoamílico\nFrasco con solución de NaOAc\nTubo de 600 ml con RNAsa",
   "titleSteps": [
     "Tomar muestra de células y solución de lisis",
     "Colocar solución de lisis en muestra de células",
